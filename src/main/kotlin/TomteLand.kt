@@ -60,12 +60,12 @@ class TomteLand {
     }
 }
 
-/*
+
 fun main() {
     val tomteLandet = TomteLand()
     println(tomteLandet.getUnderlings(tomteLandet.raven))
 }
- */
+
 
 
 
